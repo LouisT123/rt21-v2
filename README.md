@@ -1,3 +1,6 @@
-# rt21-v2
+#RT21 Serial Communication Program - Capstone
+The program uses serial uart communciation based on the DCU-1 Protocol 4800N1 
+to allow a Windows PC to connect to the Green Heron RT21 Controller through USB COMPORT.
 
-Second attempt at getting serial uart communication from rt21 com port to pc 
+##Installation and Running program 
+Currently need to run .sln in Visual Studio 

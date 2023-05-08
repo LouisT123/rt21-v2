@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="rt_21_attempt5.cpp">
+    <ClCompile Include="serial_rt21.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
